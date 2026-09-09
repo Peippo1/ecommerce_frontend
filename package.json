@@ -12,7 +12,7 @@
     "@testing-library/react": "^11.2.5",
     "@testing-library/user-event": "^12.7.2",
     "install": "^0.13.0",
-    "npm": "^11.17.0",
+    "npm": "^11.19.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-hook-form": "^6.15.4",
